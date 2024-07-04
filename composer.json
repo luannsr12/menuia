@@ -1,0 +1,19 @@
+{
+    "name": "luannsr12/menuia",
+    "description": "Sdk Api Whatsapp Menuia",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Menuia\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "luannsr12"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
