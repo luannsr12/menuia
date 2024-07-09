@@ -103,7 +103,7 @@ Importante checkar se esta conectado antes, se ja estiver conectado, irá criar 
 
 ```
 
-#### Status um dispositivo
+#### Status de um dispositivo
 
 ```php
     <?php 
