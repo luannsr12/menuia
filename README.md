@@ -13,7 +13,7 @@ Menuia: [menuia.com](https://menuia.com/) <br />
 - Verificar Status de conexão
 
 
-## Instalação composer
+## Instalação via composer
 
 ```bash
  composer require luannsr12/menuia
