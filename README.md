@@ -5,6 +5,12 @@ Menuia: [menuia.com](https://menuia.com/) <br />
 ## Funções disponíveis
 
 - Envio de texto
+- Envio de Imagem, Vídeo, Áudio e Docs
+- Criar Dispositivos
+- Remover Dispositivos
+- Desconectar Dispositivos
+- Recuperar QrCode
+- Verificar Status de conexão
 
 
 ## Instalação composer
